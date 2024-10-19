@@ -5,7 +5,10 @@
 <table>
   <tr>
     <td>
-      <p>Me chamo Erick Henrique Barros, tenho 22 anos e estou terminando o TADS, Tecnologia em Análise e Desenvolvimento de Sistemas na UFRN - EAJ. Sou uma pessoa calma e extrovertida, gosto bastante do desenvolvimento backend, mas também aventuro-me bastante no frontend, que faz de mim um fullstack haha</p>
+      <p>Me chamo Erick Henrique Barros, tenho 22 anos e estou terminando o TADS, Tecnologia em Análise e Desenvolvimento de Sistemas na UFRN - EAJ. Sou uma pessoa calma e extrovertida, gosto de conversar sobre coisas novas e aprender novas formas de usar as tecnologias que ja conheço.</p>
+      <p>
+        Sou desenvolvedor full-stack. Gosto bastante do desenvolvimento backend, mas também aventuro-me bastante no frontend.
+      </p>
     </td>
     <td>
       <img src="https://media.tenor.com/sHo1rVHyRnQAAAAi/dancing_doge.gif" width="70" height="70">
