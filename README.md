@@ -1,13 +1,13 @@
-# Olá, me chamo Erick 👋
+# Olá, me chamo João Victor Nunnes 👋
 
 ## Sobre mim 
 
 <table>
   <tr>
     <td>
-      <p>Me chamo Erick Henrique Barros, tenho 22 anos e estou terminando o TADS, Tecnologia em Análise e Desenvolvimento de Sistemas na UFRN - EAJ. Sou uma pessoa calma e extrovertida, gosto de conversar sobre coisas novas e aprender novas formas de usar as tecnologias que ja conheço.</p>
+      <p>Me chamo João Victor Nunnes, tenho 23 anos e estou cursando o TADS, Tecnologia em Análise e Desenvolvimento de Sistemas na UFRN - EAJ. Sou uma pessoa calma e extrovertida, gosto de conversar sobre coisas novas e aprender novas formas de usar as tecnologias que ja conheço.</p>
       <p>
-        Sou desenvolvedor full-stack. Gosto bastante do desenvolvimento backend, mas também aventuro-me bastante no frontend.
+        Sou desenvolvedor full-stack. Gosto bastante do desenvolvimento Backend.
       </p>
     </td>
     <td>
@@ -58,8 +58,8 @@
 ##
 <div>
   <a href="https://github.com/Erickhbs">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=erickhbs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erickhbs&layout=compact&langs_count=7&theme=dark"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictornunnes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictornunnes&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
