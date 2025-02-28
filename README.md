@@ -44,7 +44,7 @@
 
 ## OS
 <div style='display: inline-block'>
-  <img alt="Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" heigth="40" />
+  <img alt="Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="40" heigth="40" />
   <img alt="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" heigth="40" />
 </div>          
           
